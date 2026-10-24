@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05060a"/>
+      <stop offset="50%" stop-color="#0a0f1e"/>
+      <stop offset="100%" stop-color="#05060a"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00eaff">
+        <animate attributeName="stop-color" values="#00eaff;#a855f7;#ff2d9b;#00eaff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#a855f7">
+        <animate attributeName="stop-color" values="#a855f7;#ff2d9b;#00eaff;#a855f7" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ff2d9b">
+        <animate attributeName="stop-color" values="#ff2d9b;#00eaff;#a855f7;#ff2d9b" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00eaff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ff2d9b" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 L0 0 0 40" fill="none" stroke="#00eaff" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <!-- moving neon grid -->
+  <g>
+    <rect x="-80" y="-80" width="1400" height="480" fill="url(#grid)">
+      <animateTransform attributeName="transform" type="translate" values="0 0;40 40" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- floating orbs -->
+  <circle cx="180" cy="90" r="4" fill="#00eaff" filter="url(#glow)">
+    <animate attributeName="cy" values="90;120;90" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1020" cy="220" r="5" fill="#ff2d9b" filter="url(#glow)">
+    <animate attributeName="cy" values="220;180;220" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="820" cy="70" r="3" fill="#a855f7" filter="url(#glow)">
+    <animate attributeName="cy" values="70;100;70" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- title -->
+  <text x="600" y="150" text-anchor="middle" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="86" font-weight="800" letter-spacing="4" fill="url(#textGrad)" filter="url(#glow)">
+    GOWAY-HUI
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- subtitle -->
+  <text x="600" y="205" text-anchor="middle" font-family="'Fira Code',monospace" font-size="24" fill="#7dd3fc" letter-spacing="3">
+    &lt; Backend · Cloud Native · HarmonyOS /&gt;
+  </text>
+
+  <!-- animated scanning line -->
+  <rect x="350" y="240" width="500" height="3" fill="url(#line)">
+    <animate attributeName="x" values="250;450;250" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- side brackets -->
+  <text x="120" y="170" font-family="monospace" font-size="60" fill="#00eaff" opacity="0.5">&lt;/&gt;</text>
+  <text x="980" y="170" font-family="monospace" font-size="60" fill="#ff2d9b" opacity="0.5">{ }</text>
+</svg>

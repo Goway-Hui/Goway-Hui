@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="dgrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00eaff" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#00eaff" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="1"/>
+      <stop offset="75%" stop-color="#ff2d9b" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ff2d9b" stop-opacity="0"/>
+      <animate attributeName="x1" values="-1;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="dglow" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <rect x="0" y="10" width="1200" height="3" fill="url(#dgrad)" filter="url(#dglow)" opacity="0.9"/>
+  <rect x="0" y="11" width="1200" height="1.5" fill="url(#dgrad)"/>
+</svg>
