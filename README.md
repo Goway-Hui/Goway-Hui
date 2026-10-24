@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Goway-Hui&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://hits.sh/github.com/Goway-Hui.svg?label=Profile%20Views&color=00eaff&labelColor=0e75b6"/>
   <img src="https://img.shields.io/github/followers/Goway-Hui?label=Followers&style=for-the-badge&color=0891b2&logo=github"/>
   <img src="https://img.shields.io/github/stars/Goway-Hui?label=Stars&style=for-the-badge&color=a855f7&logo=github"/>
   <img src="https://img.shields.io/badge/HarmonyOS-Advanced%20Certified-00eaff?style=for-the-badge&logo=harmonyos"/>
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,java,python,c,gin,spring,react,ts,vue,mysql,postgres,mongodb,redis,kafka,rabbitmq,docker,kubernetes,linux,git&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=go,java,python,c,spring,react,ts,vue,gradle,maven,mysql,postgres,mongodb,redis,kafka,rabbitmq,elasticsearch,docker,kubernetes,linux&theme=dark&perline=10" />
 
 </div>
 
