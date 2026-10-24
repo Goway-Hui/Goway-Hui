@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=00EAFF&center=true&vCenter=true&width=700&lines=%E5%85%A8%E6%A0%88%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%80%85;%E5%90%8E%E7%AB%AF%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84+%2F+%E4%BA%91%E5%8E%9F%E7%94%9F;%E9%B8%BF%E8%92%99%E7%94%9F%E6%80%81%E6%8E%A2%E7%B4%A2%E8%80%85;Golang+%C2%B7+Java+%C2%B7+Python+%C2%B7+C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend+%26+Cloud+Native;HarmonyOS+Developer;Go+%C2%B7+Java+%C2%B7+Python+%C2%B7+C" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://hits.sh/github.com/Goway-Hui.svg?label=Profile%20Views&color=00eaff&labelColor=0e75b6"/>
-  <img src="https://img.shields.io/github/followers/Goway-Hui?label=Followers&style=for-the-badge&color=0891b2&logo=github"/>
-  <img src="https://img.shields.io/github/stars/Goway-Hui?label=Stars&style=for-the-badge&color=a855f7&logo=github"/>
-  <img src="https://img.shields.io/badge/HarmonyOS-Advanced%20Certified-00eaff?style=for-the-badge&logo=harmonyos"/>
+  <img src="https://hits.sh/github.com/Goway-Hui.svg?label=Profile%20Views&color=0891b2&labelColor=0f172a&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Goway-Hui?label=Followers&style=for-the-badge&logo=github&color=0891b2&labelColor=0f172a"/>
+  <img src="https://img.shields.io/github/stars/Goway-Hui?label=Stars&style=for-the-badge&logo=github&color=0891b2&labelColor=0f172a"/>
+  <img src="https://img.shields.io/badge/HarmonyOS-Advanced%20Certified-0891b2?style=for-the-badge&logo=harmonyos&labelColor=0f172a"/>
 </div>
 
 <img src="./assets/divider.svg" width="100%"/>
@@ -20,7 +20,7 @@
 我是一名对技术充满热情的软件开发者，我对后端系统架构、云原生技术以及新兴的鸿蒙生态有浓厚的兴趣，并致力于构建高效、稳定且可扩展的软件系统。
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7EE787&center=true&vCenter=true&width=640&lines=%E6%9E%84%E5%BB%BA%E9%AB%98%E6%95%88%E3%80%81%E7%A8%B3%E5%AE%9A%E4%B8%94%E5%8F%AF%E6%89%A9%E5%B1%95%E7%9A%84%E7%B3%BB%E7%BB%9F;Build+fast%2C+stable+and+scalable+systems" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=0891B2&center=true&vCenter=true&width=620&lines=Build+fast+%C2%B7+stable+%C2%B7+scalable+systems;%E6%9E%84%E5%BB%BA%E9%AB%98%E6%95%88%E3%80%81%E7%A8%B3%E5%AE%9A%E4%B8%94%E5%8F%AF%E6%89%A9%E5%B1%95%E7%9A%84%E7%B3%BB%E7%BB%9F" alt="typing"/>
 </div>
 
 <img src="./assets/divider.svg" width="100%"/>
@@ -108,8 +108,8 @@
 
 <div align="center">
 
-<a href="mailto:3513260655@qq.com"><img src="https://img.shields.io/badge/Email-3513260655%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Goway-Hui"><img src="https://img.shields.io/badge/GitHub-Goway--Hui-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:3513260655@qq.com"><img src="https://img.shields.io/badge/Email-3513260655%40qq.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/></a>
+<a href="https://github.com/Goway-Hui"><img src="https://img.shields.io/badge/GitHub-Goway--Hui-0891b2?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/></a>
 
 <br/><br/>
 
