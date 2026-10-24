@@ -79,14 +79,15 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Goway-Hui&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Goway-Hui&theme=radical" width="100%" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Goway-Hui&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&ring_color=00eaff" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goway-Hui&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Goway-Hui&theme=radical&hide_border=true&ring=00eaff&fire=ff2d9b&currStreakLabel=00eaff" />
+<img height="170" src="https://streak-stats.demolab.com/?user=Goway-Hui&theme=radical&hide_border=true&ring=00eaff&fire=ff2d9b&currStreakLabel=00eaff" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Goway-Hui&theme=react-dark&hide_border=true&area=true&color=00eaff&line=a855f7&point=ffffff" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Goway-Hui&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Goway-Hui&theme=radical" />
 
 </div>
 
